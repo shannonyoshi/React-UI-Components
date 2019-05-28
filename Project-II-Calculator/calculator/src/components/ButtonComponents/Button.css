@@ -1,0 +1,31 @@
+.number{
+    background-color:white;
+    color:black;
+    width: 75px;
+    height: 57px;
+    text-decoration:none;
+}
+
+.action{
+    background-color:#A0001E;
+    display:flex;
+    color:white;
+    width: 75px;
+    height: 57px;
+    text-decoration:none;
+    border: 1px solid yellow;
+}
+
+.large{
+    width: 225px;
+    background-color:white;
+    color:black;
+}
+
+.buttons-numbered{
+    border: 1px solid green;
+}
+.buttons-all{
+    border: 1px solid orange;
+    display:flex;
+}
