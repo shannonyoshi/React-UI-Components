@@ -13,7 +13,7 @@ const App = () => {
       </div>
       <div className='buttons-all'>
         <div className='buttons-left'>
-          <ActionButton btnType='action large' text='clear' />
+          <ActionButton btnType='action large clear' text='clear' />
           <div className='buttons-numbered'>
 
             <div className='row1'>
@@ -38,7 +38,7 @@ const App = () => {
           </div>
         </div>
         <div className='action-buttons'>
-          <ActionButton btnType='action' text='&div;' />
+          <ActionButton btnType='action' text='&#247;' />
           <ActionButton btnType='action' text='&times;' />
           <ActionButton btnType='action' text='-' />
           <ActionButton btnType='action' text='+' />

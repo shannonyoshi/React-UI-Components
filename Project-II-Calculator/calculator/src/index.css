@@ -4,4 +4,6 @@ body {
   font-family: sans-serif;
   box-sizing: border-box;
   border: 1px solid gray;
+  font-size: 40px;
+  width:300px;
 }
