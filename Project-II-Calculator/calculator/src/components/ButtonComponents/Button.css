@@ -1,0 +1,46 @@
+button{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    font-size:30px;
+    font-weight:bold;
+    text-align: center;
+}
+
+.number{
+    background-color:white;
+    color:black;
+    width: 75px;
+    height: 57px;
+    text-decoration:none;
+}
+
+.action{
+    background-color:#A0001E;
+    display:flex;
+    color:white;
+    width: 75px;
+    height: 57px;
+    text-decoration:none;
+    justify-content:center;
+}
+
+.action-buttons{
+    text-align: center;
+    align-items:center;
+}
+
+.large{
+    width: 225px;
+    background-color:white;
+    color:black;
+}
+
+.clear{
+    font-weight:normal;
+}
+
+.buttons-all{
+    display:flex;
+}

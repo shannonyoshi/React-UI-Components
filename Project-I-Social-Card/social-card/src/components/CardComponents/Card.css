@@ -1,1 +1,34 @@
-/* All styles for your Card Components live here */
+
+.card-container{
+    width:40em;
+}
+
+.banner{
+    width:34em;
+    border-top-left-radius:7px;
+    border-top-right-radius:7px;
+}
+
+.card-content{
+    padding:1em;
+}
+
+.card-content h4{
+    margin:0;
+}
+
+.card-content p{
+    margin:0;
+}
+
+.card-content a{
+    text-decoration:none;
+    color:gray;
+}
+
+.site-pre{
+    width:34em;
+    border:1px solid lightgray;
+    border-radius:7px;
+    margin-left:6em;
+}
