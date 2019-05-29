@@ -1,1 +1,16 @@
-/* All styles for your header Components live here */
+.header{
+    display:flex;
+}
+
+.logo{
+    width:15%;
+    object-fit:contain;
+}
+
+.right-content{
+    width:85%;
+}
+
+span{
+    color:gray;
+}
